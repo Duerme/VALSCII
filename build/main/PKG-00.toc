@@ -1,5 +1,4 @@
-('C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
- 'LOL\\ASCII-Generator-Project\\build\\main\\main.pkg',
+('C:\\Users\\kylep\\OneDrive\\Desktop\\Val LOL\\VALSCII\\build\\main\\main.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -12,27 +11,27 @@
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
    'C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
-   'LOL\\ASCII-Generator-Project\\build\\main\\PYZ-00.pyz',
+   'LOL\\VALSCII\\build\\main\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
-   'LOL\\ASCII-Generator-Project\\build\\main\\localpycs\\struct.pyc',
+   'LOL\\VALSCII\\build\\main\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
    'C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
-   'LOL\\ASCII-Generator-Project\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'LOL\\VALSCII\\build\\main\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
    'C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
-   'LOL\\ASCII-Generator-Project\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'LOL\\VALSCII\\build\\main\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
    'C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
-   'LOL\\ASCII-Generator-Project\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'LOL\\VALSCII\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
-   'LOL\\ASCII-Generator-Project\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'LOL\\VALSCII\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\kylep\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -53,8 +52,7 @@
    'C:\\Users\\kylep\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('main',
-   'C:\\Users\\kylep\\OneDrive\\Desktop\\Val '
-   'LOL\\ASCII-Generator-Project\\main.py',
+   'C:\\Users\\kylep\\OneDrive\\Desktop\\Val LOL\\VALSCII\\main.py',
    'PYSOURCE')],
  'python310.dll',
  True,
